@@ -1,16 +1,24 @@
 
+I recommend putting this into your `~/.bash_aliases`:
 alias venv=". .venv/bin/activate"
+If not, you'll have to activate the venv manually each time;
+after changing your `~/.bash_aliases` file, you may need to
+re-load it in your terminal by `. ~/.bashrc`
 
-python >= 3.7
+You may need python >= 3.7 to run the scripts in this repo (I tested with python 3.10, but the differences here should be minor)
 
+First, create yourself a virtual environment. Run these commands in the root
+folder of this repo:
 python3 -m venv .venv
+Activate the venv using the alias created above, manually otherwise
 venv
+Upgrade pip, install the requirements and start the Jupyter Notebook server
 pip install --upgrade pip
 pip install -r requirements.txt
 jupyter notebook
 
-Ignore the warning
-  Read the migration plan to Notebook 7 to learn about the new features
+You can safely ignore the warning displayed by the Jupyter Notebook UI:
+Read the migration plan to Notebook 7 to learn about the new features
   and the actions to take if you are using extensions[...]
 Because it's about an update to Jupyter Notebook, which isn't even released 
 yet
