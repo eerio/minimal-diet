@@ -35,9 +35,5 @@ yet
 
 ciężko dokładnie z tymi aminokwasami; trzeba jeść grain + pulse po prostu
 
-
-source for data.csv:
- https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/lentil
-
- fajna praca:
- https://www.mdpi.com/2304-8158/12/7/1383/pdf
+fajna praca:
+https://www.mdpi.com/2304-8158/12/7/1383/pdf
