@@ -15,6 +15,13 @@ Ignore the warning
 Because it's about an update to Jupyter Notebook, which isn't even released 
 yet
 
+To install something without restarting the Jupter kernel, e.g. for
+pandas run:
+!pip install pandas
+in a new cell in some notebook;
+don't forget to add the library installed to requirements.txt
+(unless it's only for you and not useful for others)
+
 
 -2000 kcal dziennie
 -10% energii z białka (Oxford handbook of nutrition and dietetics 3e)
