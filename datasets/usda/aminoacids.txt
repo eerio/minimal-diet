@@ -1,0 +1,23 @@
+              Lentil  Daily Rice
+Histidine     0.70    10    0.16
+Isoleucine    1.08    20    0.29
+Leucine       1.81    39    0.56
+Lysine        1.74    30    0.25
+Methionine    0.21    14.5  0.16
+Phenylalanine 1.23    25    0.36
+Threonine     0.90    15    0.24
+Tryptophan    0.22    4     0.08
+Valine        1.24    26    0.42
+
+Człowiek musiałby zjeść 12 paczek ryżu dziennie żeby zaspokoić Lysine
+
+
+Faba Bean = Lentil = Pea = Soybean = Chickpea = Common Bean
+
+Daily: mg/kg of bodyweight; source: wikipedia
+
+Lentil:
+https://fdc.nal.usda.gov/fdc-app.html#/food-details/174284/nutrients
+
+Rice:
+https://fdc.nal.usda.gov/fdc-app.html#/food-details/168883/nutrients
