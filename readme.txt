@@ -30,6 +30,15 @@ in a new cell in some notebook;
 don't forget to add the library installed to requirements.txt
 (unless it's only for you and not useful for others)
 
+- jaki ryż najlepszy?
+  + sam biały jest średni; lepiej wybrać czerwony lub czarny
+  + co z metalami ciezkimi w ryzu?
+  + nie rozgotowywać ryżu - to prowadzi do przyśpieszenia wchłanialności
+- jak się przelicza indeks glikemiczny na to ile trzyma sytość?
+- jaki olej najlepszy?
+  + olej rzepakowy w polsce chyba najlepszy - dużo zdrowszy niż oliwa,
+    wyższy punkt dymienia, mniej tłuszczy nasyconych (x2), więcej witaminy
+    E (x4)
 
 -2000 kcal dziennie
 -10% energii z białka (Oxford handbook of nutrition and dietetics 3e)
