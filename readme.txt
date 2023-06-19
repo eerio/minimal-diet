@@ -1,4 +1,8 @@
 
+Proste potrawy sprawiają tyle samo przyjemności, co uczty, gdy tylko
+zostanie usunięte bolesne uczucie głodu. Głodnemu największą rozkosz
+sprawiają woda i jęczmienny chleb. ~ Epikur
+
 I recommend putting this into your `~/.bash_aliases`:
 alias venv=". .venv/bin/activate"
 If not, you'll have to activate the venv manually each time;
